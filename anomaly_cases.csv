@@ -1,0 +1,334 @@
+idx1,idx2,similarity,nama_1,nama_2,final_score,predicted_label,budget_diff,kl_diff,satker_diff,lokasi_diff
+1,2411,0.8025786625932425,Belanja Perjalanan Dinas Biasa - laporan keuangan,Belanja Perjalanan Dinas Biasa - Reviu Laporan Keuangan,0.8815471975559455,mirip,0.7490909090909091,0,0,0
+22,2334,0.8073970807710833,Belanja Perjalanan Dinas Biasa Kebijakan Kesejahteraan Rakyat Bidang Sosial,Belanja Perjalanan Dinas Biasa Kebijakan Kesejahteraan Rakyat Bidang Pendidikan,0.8844382484626498,mirip,0.9068621637779373,0,0,0
+23,1149,1.0,Belanja Perjalanan Dinas Paket Meeting Luar Kota,Belanja Perjalanan Dinas Paket Meeting Luar Kota,1.0,mirip,0.8226086956521739,0,0,0
+39,2300,0.960885330538586,Belanja Perjalanan Dinas Biasa - perjalanan dinas,Belanja Perjalanan Dinas Biasa - Perjalanan Dinas Biasa,0.9765311983231516,mirip,0.9620952882337457,0,0,0
+54,1200,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.75,0,0,1
+54,1182,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.75,0,0,0
+54,2374,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.9230769230769231,0,0,1
+59,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.5667008196721312,0,0,0
+67,2474,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.9179995829982426,0,0,0
+67,99,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.8937106675417937,0,0,0
+67,2213,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.8607978965464934,0,0,0
+74,2938,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.7368421052631579,0,0,0
+74,2278,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.8334794040315513,0,0,0
+77,1144,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.6666666666666666,0,0,0
+81,1200,0.9147313061026549,Uang Harian Perjalanan Dinas Dalam Negeri - Dalam Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,0.9488387836615928,mirip,0.8175675675675675,0,0,0
+81,2374,0.9147313061026549,Uang Harian Perjalanan Dinas Dalam Negeri - Dalam Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,0.9488387836615928,mirip,0.9438669438669439,0,0,0
+83,1200,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.55,0,0,1
+83,1182,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.55,0,0,0
+83,2374,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.8615384615384616,0,0,1
+84,2972,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.904238704551059,0,0,0
+84,2468,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.8909090909090909,0,0,1
+84,2321,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.85,0,0,1
+86,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.5865357468123862,0,0,0
+87,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.7272540983606557,0,0,0
+89,2371,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.7778158556088646,0,0,1
+89,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.787152549792077,0,0,1
+89,2370,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.926959055762724,0,0,1
+89,2210,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas I),1.0,mirip,0.9068263473053892,0,0,0
+89,2922,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas I),1.0,mirip,0.9380454863986749,0,0,0
+98,2929,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas III),Belanja Perjalanan Dinas Biasa (Cabang Dinas III),1.0,mirip,0.8344618674269423,0,0,0
+98,2369,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas III),Belanja Perjalanan Dinas Biasa (Cabang Dinas III),1.0,mirip,0.7860104422604423,0,0,0
+98,2993,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas III),Belanja Perjalanan Dinas Biasa (Cabang Dinas III),1.0,mirip,0.7646290270498523,0,0,0
+99,2214,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.8937106675417937,0,0,0
+137,277,1.0,Belanja Perjalanan Dinas Biasa - Dalam Rangka Diseminasi Laboratorium UPTD PSMB di Kabupaten Morowali/Kabupaten Lainnya,Belanja Perjalanan Dinas Biasa - Dalam Rangka Diseminasi Laboratorium UPTD PSMB di Kabupaten Morowali/Kabupaten Lainnya,1.0,mirip,0.5675675675675675,0,0,0
+169,618,1.0,Belanja Perjalanan Dinas Biasa - Dalam Rangka Kegiatan Surveilance Laboratorium Pengujian UPTD PSMB di Palu,Belanja Perjalanan Dinas Biasa - Dalam Rangka Kegiatan Surveilance Laboratorium Pengujian UPTD PSMB di Palu,1.0,mirip,0.730909090909091,0,0,0
+179,271,1.0,Belanja Perjalanan Dinas Biasa (biaya Uang Harian),Belanja Perjalanan Dinas Biasa ( Biaya Uang Harian ),1.0,mirip,0.7708108108108108,0,0,1
+191,326,1.0,Belanja Perjalanan Dinas Biasa (P5TK),Belanja Perjalanan Dinas Biasa (P5TK),1.0,mirip,0.8816923967035448,0,0,0
+191,636,1.0,Belanja Perjalanan Dinas Biasa (P5TK),Belanja Perjalanan Dinas Biasa (P5TK),1.0,mirip,0.6836141344863575,0,0,0
+192,193,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6364702515165688,0,0,0
+192,381,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.7421309449846772,0,0,0
+192,520,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6534683876552345,0,0,0
+192,194,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.8806640093262874,0,0,0
+192,521,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.8806640093262874,0,0,0
+193,194,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6717297795529611,0,0,0
+193,521,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6717297795529611,0,0,0
+194,381,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.537222523010287,0,0,0
+194,520,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6556274047662215,0,0,0
+276,309,1.0,Belanja Perjalanan Dinas Biasa - Dalam Rangka Surveilans Reakreditasi Laboratorium Kalibrasi UPTD PSMB di Palu,Belanja Perjalanan Dinas Biasa - Dalam Rangka Surveilans Reakreditasi Laboratorium Kalibrasi UPTD PSMB di Palu,1.0,mirip,0.6636363636363637,0,0,0
+276,366,1.0,Belanja Perjalanan Dinas Biasa - Dalam Rangka Surveilans Reakreditasi Laboratorium Kalibrasi UPTD PSMB di Palu,Belanja Perjalanan Dinas Biasa - Dalam Rangka Surveilans Reakreditasi Laboratorium Kalibrasi UPTD PSMB di Palu,1.0,mirip,0.6109358569926393,0,0,0
+277,619,1.0,Belanja Perjalanan Dinas Biasa - Dalam Rangka Diseminasi Laboratorium UPTD PSMB di Kabupaten Morowali/Kabupaten Lainnya,Belanja Perjalanan Dinas Biasa - Dalam Rangka Diseminasi Laboratorium UPTD PSMB di Kabupaten Morowali/Kabupaten Lainnya,1.0,mirip,0.5675675675675675,0,0,0
+326,636,1.0,Belanja Perjalanan Dinas Biasa (P5TK),Belanja Perjalanan Dinas Biasa (P5TK),1.0,mirip,0.9625691465342063,0,0,0
+326,577,1.0,Belanja Perjalanan Dinas Biasa (P5TK),Belanja Perjalanan Dinas Biasa (P5TK),1.0,mirip,0.9142724091216979,0,0,0
+381,521,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.537222523010287,0,0,0
+520,521,1.0,Belanja Perjalanan Dinas Biasa (Biro PBJ),Belanja Perjalanan Dinas Biasa (Biro PBJ),1.0,mirip,0.6556274047662215,0,0,0
+577,636,1.0,Belanja Perjalanan Dinas Biasa (P5TK),Belanja Perjalanan Dinas Biasa (P5TK),1.0,mirip,0.5633744855967078,0,0,0
+675,1333,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.819635936343888,0,0,0
+675,1222,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.6086662794969955,0,0,0
+675,753,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.9635970207124487,0,0,0
+675,931,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa  (UPT Jeneberang),1.0,mirip,0.8705577783007766,0,0,0
+676,932,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.8785575048732943,0,0,0
+676,1287,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.8353643966547193,0,0,0
+676,1288,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.6983556561655033,0,0,0
+676,677,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.9345626611331196,0,0,0
+677,1287,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.60253227408143,0,0,0
+677,1288,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.783064591780365,0,0,0
+680,1083,1.0,Belanja Perjalanan Dinas Biasa - UPTD II,Belanja Perjalanan Dinas Biasa - UPTD II,1.0,mirip,0.8588574725908829,0,0,0
+680,712,1.0,Belanja Perjalanan Dinas Biasa - UPTD II,Belanja Perjalanan Dinas Biasa - UPTD II,1.0,mirip,0.8356030005770341,0,0,0
+681,1031,1.0,Belanja Perjalanan Dinas Biasa - UPTD V,Belanja Perjalanan Dinas Biasa - UPTD V,1.0,mirip,0.7439551010828427,0,0,0
+681,830,1.0,Belanja Perjalanan Dinas Biasa - UPTD V,Belanja Perjalanan Dinas Biasa - UPTD V,1.0,mirip,0.6978993391107172,0,0,0
+714,715,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.8491332084980926,0,0,0
+715,836,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.8845008416418491,0,0,0
+715,884,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.834192820645624,0,0,0
+715,883,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.907485383320551,0,0,0
+716,715,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.8651941254394964,0,0,0
+717,886,1.0,Belanja Perjalanan Dinas Biasa (UPT larona),Belanja Perjalanan Dinas Biasa (UPT Larona),1.0,mirip,0.6256047742936692,0,0,0
+717,885,1.0,Belanja Perjalanan Dinas Biasa (UPT larona),Belanja Perjalanan Dinas Biasa (UPT Larona),1.0,mirip,0.5927130403030718,0,0,0
+753,1333,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.798169443792537,0,0,0
+753,1222,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.9069771466645898,0,0,0
+753,931,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa  (UPT Jeneberang),1.0,mirip,0.7187704381948986,0,0,0
+754,675,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.7817074182499141,0,0,0
+754,753,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.8332376712222516,0,0,0
+762,1281,0.8226210848565879,"Belanja Perjalanan Dinas Biasa Dalam Rangka Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya (Bidang PSP)","Belanja Perjalanan Dinas Biasa Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya",0.8935726509139528,mirip,0.7796095655985583,0,0,0
+764,1031,1.0,Belanja Perjalanan Dinas Biasa - UPTD V,Belanja Perjalanan Dinas Biasa - UPTD V,1.0,mirip,0.5712042750701808,0,0,0
+770,1275,1.0,Belanja Perjalanan Dinas Biasa (Perjalanan Dinas Dalam Daerah Golongan III - Sedang),Belanja Perjalanan Dinas Biasa (Perjalanan Dinas Dalam Daerah Golongan III - sedang),1.0,mirip,0.7242922374429224,0,0,0
+807,1354,1.0,Belanja Perjalanan Dinas Biasa - UPTD III,Belanja Perjalanan Dinas Biasa - UPTD III,1.0,mirip,0.7461102792786928,0,0,0
+830,989,1.0,Belanja Perjalanan Dinas Biasa - UPTD V,Belanja Perjalanan Dinas Biasa - UPTD I,1.0,mirip,0.519786508355572,0,0,1
+830,1002,1.0,Belanja Perjalanan Dinas Biasa - UPTD V,Belanja Perjalanan Dinas Biasa - UPTD I,1.0,mirip,0.519786508355572,0,0,1
+860,1247,1.0,Belanja Perjalanan Dinas Biasa - Dinas,Belanja Perjalanan Dinas Biasa - Dinas,1.0,mirip,0.7314426350756832,0,0,0
+885,1007,1.0,Belanja Perjalanan Dinas Biasa (UPT Larona),Belanja Perjalanan Dinas Biasa (UPT Larona),1.0,mirip,0.5453758072117283,0,0,0
+886,1007,1.0,Belanja Perjalanan Dinas Biasa (UPT Larona),Belanja Perjalanan Dinas Biasa (UPT Larona),1.0,mirip,0.5820904077135688,0,0,0
+919,1281,0.8226210848565879,"Belanja Perjalanan Dinas Biasa Dalam Rangka Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya (Bidang PSP)","Belanja Perjalanan Dinas Biasa Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya",0.8935726509139528,mirip,0.8691376172786484,0,0,0
+923,1281,0.8226210848565879,"Belanja Perjalanan Dinas Biasa Dalam Rangka Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya (Bidang PSP)","Belanja Perjalanan Dinas Biasa Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya",0.8935726509139528,mirip,0.7505417288389248,0,0,0
+924,1281,0.8226210848565879,"Belanja Perjalanan Dinas Biasa Dalam Rangka Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya (Bidang PSP)","Belanja Perjalanan Dinas Biasa Koordinasi, Identifikasi, Verifikasi, Monitoring dan Kedinasan Lainnya",0.8935726509139528,mirip,0.840114057498085,0,0,0
+931,1222,1.0,Belanja Perjalanan Dinas Biasa  (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.6692280401166464,0,0,0
+932,1288,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.5973984011006764,0,0,0
+982,1038,0.9098873660067834,Belanja Perjalanan Dinas Biasa Pelabuhan Wilayah 1 dan Wilayah 2,Belanja Perjalanan Dinas Biasa UPT Pelabuhan Wilayah 1 dan Pelabuhan Wilayah 2,0.94593241960407,mirip,0.7684352517985612,0,0,1
+989,1031,1.0,Belanja Perjalanan Dinas Biasa - UPTD I,Belanja Perjalanan Dinas Biasa - UPTD V,1.0,mirip,0.5929958757295963,0,0,1
+990,1355,1.0,Belanja Perjalanan Dinas Biasa - UPTD VI,Belanja Perjalanan Dinas Biasa - UPTD VI,1.0,mirip,0.5824237928131434,0,0,0
+1002,1031,1.0,Belanja Perjalanan Dinas Biasa - UPTD I,Belanja Perjalanan Dinas Biasa - UPTD V,1.0,mirip,0.5929958757295963,0,0,1
+1003,1355,1.0,Belanja Perjalanan Dinas Biasa - UPTD VI,Belanja Perjalanan Dinas Biasa - UPTD VI,1.0,mirip,0.5824237928131434,0,0,0
+1030,1354,1.0,Belanja Perjalanan Dinas Biasa - UPTD III,Belanja Perjalanan Dinas Biasa - UPTD III,1.0,mirip,0.7940278327232302,0,0,0
+1060,1061,0.8931243063031689,Belanja Perjalanan Dinas Biasa (Eselon II Dalam Daerah (Jauh),Belanja Perjalanan Dinas Biasa (Eselon II Luar Daerah - Jauh),0.9358745837819014,mirip,0.5952320659841551,0,0,1
+1066,715,1.0,Belanja Perjalanan Dinas Biasa (UPT Walcen),Belanja Perjalanan Dinas Biasa (UPT Walcen),1.0,mirip,0.8582929112839769,0,0,0
+1067,676,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.7751965038043136,0,0,0
+1067,677,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.7089131620536776,0,0,0
+1068,932,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.7157743488841712,0,0,0
+1068,1287,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.7903426017874876,0,0,0
+1068,676,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.9654829277494812,0,0,0
+1068,1288,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.8855702984125661,0,0,0
+1095,671,1.0,Belanja Perjalanan Dinas Biasa -  Monitoring dan Evaluasi SPM Bidang Pendidikan; Biaya Transportasi Darat dari Ibukota Provinsi ke Kabupaten/Kota dalam Provinsi,Belanja Perjalanan Dinas Biasa -  Monitoring dan Evaluasi SPM Bidang Pendidikan; Biaya Transportasi Darat dari Ibukota Provinsi ke Kabupaten/Kota dalam Provinsi,1.0,mirip,0.5142857142857142,0,0,0
+1125,2458,1.0,Belanja Perjalanan Dinas Biasa (UPTD Pelatihan Kesehatan Provsu),Belanja Perjalanan Dinas Biasa (UPTD Pelatihan Kesehatan Provsu),1.0,mirip,0.650048512623604,0,0,0
+1129,1148,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.7857142857142857,0,0,0
+1131,1132,0.9568801076674978,Belanja Perjalanan Dinas Biasa - Fast Track Youngpreneur level up,Belanja Perjalanan Dinas Dalam Kota- Fast Track Youngpreneur level up,0.9741280646004986,mirip,0.8312139041783032,0,0,0
+1139,2229,0.9293145960158352,Belanja Perjalanan Dinas Biasa Fasilitasi Kelembagaan Bina Spiritual,Belanja Perjalanan Dinas Dalam Kota Fasilitasi Kelembagaan Bina Spiritual,0.957588757609501,mirip,0.9319554565297434,0,0,0
+1139,2388,0.8795931939900444,Belanja Perjalanan Dinas Biasa Fasilitasi Kelembagaan Bina Spiritual,Belanja Perjalanan Dinas Biasa Luar Negeri Fasilitasi Kelembagaan Bina Spiritual,0.9277559163940264,mirip,0.7667261022927689,0,0,0
+1141,1147,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.614054054054054,0,0,0
+1142,2390,0.9438072015876896,Belanja Perjalanan Dinas Biasa - Mall UMKM (Optimalisasi PLUT),Belanja Perjalanan Dinas Dalam Kota - Mall UMKM (Optimalisasi PLUT),0.9662843209526136,mirip,0.847073216638434,0,0,0
+1143,1145,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.8083269082498072,0,0,0
+1143,1144,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.5373939861218195,0,0,0
+1144,1145,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.5856666666666667,0,0,0
+1149,1195,1.0,Belanja Perjalanan Dinas Paket Meeting Luar Kota,Belanja Perjalanan Dinas Paket Meeting Luar Kota,1.0,mirip,0.728,0,0,0
+1149,2389,1.0,Belanja Perjalanan Dinas Paket Meeting Luar Kota,Belanja Perjalanan Dinas Paket Meeting Luar Kota,1.0,mirip,0.8671510830819852,0,0,1
+1164,2936,0.923693662138194,Belanja Perjalanan Dinas Biasa - Fasilitasi Penguatan Kelembagaan Koperasi,Belanja Perjalanan Dinas Dalam Kota - Fasilitasi Penguatan Kelembagaan Koperasi,0.9542161972829164,mirip,0.9589771639546014,0,0,0
+1182,2374,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.6923076923076923,0,0,1
+1186,2923,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas II),Belanja Perjalanan Dinas Biasa (Cabang Dinas II),1.0,mirip,0.787426000473597,0,0,0
+1186,2475,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas II),Belanja Perjalanan Dinas Biasa (Cabang Dinas II),1.0,mirip,0.7819539375567766,0,0,0
+1186,1187,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas II),Belanja Perjalanan Dinas Biasa (Cabang Dinas II),1.0,mirip,0.8008867714023986,0,0,0
+1195,2389,1.0,Belanja Perjalanan Dinas Paket Meeting Luar Kota,Belanja Perjalanan Dinas Paket Meeting Luar Kota,1.0,mirip,0.5115848642720043,0,0,1
+1199,1200,0.9147313061026549,Uang Harian Perjalanan Dinas Dalam Negeri - Dalam Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,0.9488387836615928,mirip,0.7972972972972973,0,0,0
+1199,2374,0.9147313061026549,Uang Harian Perjalanan Dinas Dalam Negeri - Dalam Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,0.9488387836615928,mirip,0.9376299376299376,0,0,0
+1200,2374,1.0,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,Uang Harian Perjalanan Dinas Dalam Negeri - Luar Kota -  Sumatera Utara,1.0,mirip,0.6923076923076923,0,0,0
+1201,2467,1.0,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,1.0,mirip,0.7931034482758621,0,0,0
+1201,2264,0.9433142310994572,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9659885386596744,mirip,0.9123510971786833,0,0,1
+1207,1331,0.8824117797358608,Belanja Perjalanan Dinas Biasa (Eselon II Dalam Daerah - Sedang),Belanja Perjalanan Dinas Biasa Eselon II Luar Daerah - Sedang),0.9294470678415164,mirip,0.7406300561530408,0,0,1
+1222,1333,1.0,Belanja Perjalanan Dinas Biasa (UPT Jeneberang),Belanja Perjalanan Dinas Biasa (UPT Jeneberang),1.0,mirip,0.5391042115556017,0,0,0
+1259,1355,1.0,Belanja Perjalanan Dinas Biasa - UPTD VI,Belanja Perjalanan Dinas Biasa - UPTD VI,1.0,mirip,0.7504655369303737,0,0,0
+1286,676,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.9068917814248884,0,0,0
+1286,1288,1.0,Belanja Perjalanan Dinas Biasa (UPT Saddang),Belanja Perjalanan Dinas Biasa (UPT Saddang),1.0,mirip,0.6913311305906755,0,0,0
+1346,1347,1.0,Belanja Perjalanan Dinas Biasa #Peningkatan Kualitas Lembaga Pelatihan,Belanja Perjalanan Dinas Biasa #Peningkatan Kualitas Lembaga Pelatihan,1.0,mirip,0.5445780717578673,0,0,0
+1555,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8918575855245965,0,0,0
+1576,1696,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5102102102102102,0,0,0
+1576,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8985153751384447,0,0,0
+1584,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9532768563710543,0,0,0
+1597,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7847649918962722,0,0,0
+1597,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8481128576445759,0,0,0
+1600,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8391677140759362,0,0,0
+1607,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7440904419321686,0,0,0
+1607,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8722539690875611,0,0,0
+1628,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8335345188761817,0,0,0
+1630,1699,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5312162565173126,0,0,0
+1634,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9752280708735835,0,0,0
+1643,1779,1.0,Belanja Perjalanan Dinas Biasa SEKSI PELAYANAN KESEHATAN PRIMER DAN KESTRAD,Belanja Perjalanan Dinas Biasa SEKSI PELAYANAN KESEHATAN PRIMER DAN KESTRAD,1.0,mirip,0.7121818966048432,0,0,0
+1656,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5641137855579869,0,0,0
+1656,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.925000082056803,0,0,0
+1657,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.6765019434108623,0,0,0
+1658,1696,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5831431431431432,0,0,0
+1658,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9136271057074472,0,0,0
+1659,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7607468339202973,0,0,0
+1661,1696,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7366166166166166,0,0,0
+1661,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.945426865944058,0,0,0
+1669,1698,1.0,Belanja perjalanan dinas biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7024867448286163,0,0,0
+1669,1697,1.0,Belanja perjalanan dinas biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8901177351009463,0,0,0
+1670,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8887933633308397,0,0,0
+1670,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7060298621117482,0,0,0
+1694,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8752114264236046,0,0,0
+1694,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7380254507380188,0,0,0
+1695,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7053399206043033,0,0,0
+1696,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7927996316437896,0,0,0
+1697,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9673085696842783,0,0,0
+1702,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8121839624011183,0,0,0
+1722,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9548687583492798,0,0,1
+1726,1699,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8611696712292141,0,0,0
+1732,1865,1.0,5.1.02.04.001.00001 Belanja Perjalanan Dinas Biasa,5.1.02.04.001.00001 Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7937014794199502,0,0,0
+1777,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9184425474421175,0,0,0
+1777,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5991607230189026,0,0,0
+1778,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9419284005159732,0,0,0
+1779,1842,1.0,Belanja Perjalanan Dinas Biasa SEKSI PELAYANAN KESEHATAN PRIMER DAN KESTRAD,Belanja Perjalanan Dinas Biasa SEKSI PELAYANAN KESEHATAN PRIMER DAN KESTRAD,1.0,mirip,0.8204448826175366,0,0,0
+1783,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.7788141239173884,0,0,0
+1783,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8521992864340411,0,0,0
+1785,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.6673346693386774,0,0,0
+1785,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9017287727256316,0,0,0
+1797,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8245474963667592,0,0,0
+1797,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8136736174249263,0,0,0
+1816,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8344070825886363,0,0,0
+1816,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.8025795376591491,0,0,0
+1827,1698,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.5843071786310517,0,0,0
+1827,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9213567600035448,0,0,0
+1841,1697,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9798304378222781,0,0,0
+1870,1696,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.593993993993994,0,0,0
+1870,1701,1.0,Belanja Perjalanan Dinas Biasa,Belanja Perjalanan Dinas Biasa,1.0,mirip,0.9158754060007218,0,0,0
+2159,2177,1.0,Belanja Perjalanan Dinas Biasa - Dalam Negeri,Belanja Perjalanan Dinas Biasa - Dalam Negeri,1.0,mirip,0.6815564473913802,0,0,0
+2210,2371,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.5806467065868264,0,0,1
+2210,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.562251497005988,0,0,1
+2213,2214,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.8607978965464934,0,0,0
+2214,2474,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.9179995829982426,0,0,0
+2226,2979,0.8835553026088807,Belanja Perjalanan Dinas Biasa Pengelolaan Sarana dan Prasarana Spiritual,Belanja Perjalanan Dinas Biasa Luar Negeri Pengelolaan Sarana dan Prasarana Spiritual,0.9301331815653284,mirip,0.7984413444885121,0,0,0
+2228,2938,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.8421052631578947,0,0,0
+2228,2278,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.9000876424189308,0,0,0
+2229,2388,0.8174187937311364,Belanja Perjalanan Dinas Dalam Kota Fasilitasi Kelembagaan Bina Spiritual,Belanja Perjalanan Dinas Biasa Luar Negeri Fasilitasi Kelembagaan Bina Spiritual,0.8904512762386818,mirip,0.9841269841269841,0,0,0
+2231,1148,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.6071428571428571,0,0,0
+2252,2421,0.9811812444432026,Belanja Perjalanan Dinas Dalam Kota sub kegiatan Sosialisasi Budaya Baca dan Literasi pada Satuan Pendidikan Tingkat Menengah dan Pendidikan Khusus serta Masyarakat,Belanja Perjalanan Dinas Biasa sub kegiatan Sosialisasi Budaya Baca dan Literasi pada Satuan Pendidikan Tingkat Menengah dan Pendidikan Khusus serta Masyarakat,0.9887087466659216,mirip,0.554854864137995,0,0,0
+2255,2256,0.9545332007080218,"Belanja Perjalanan Dinas Biasa - Pengawasan, Pemeriksaan dan Tindak Lanjut Kesehatan Koperasi","Belanja Perjalanan Dinas Dalam Kota - Pengawasan, Pemeriksaan dan Tindak Lanjut Kesehatan Koperasi",0.9727199204248131,mirip,0.9427722334892874,0,0,0
+2264,2972,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.9361591363673727,0,0,0
+2264,2468,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.9272727272727272,0,0,1
+2264,2321,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.9,0,0,1
+2273,2932,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.6003890271460854,0,0,1
+2277,2330,0.9711350664455236,Belanja Perjalanan Dinas Dalam Kota - Sumut digital market dan galeri virtual produk UMKM kreatif,Belanja Perjalanan Dinas Biasa - Sumut digital market dan galeri virtual produk UMKM kreatif,0.982681039867314,mirip,0.8173182316404822,0,0,0
+2323,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.562748501988016,0,0,0
+2336,2429,0.9375216089175732,Belanja Perjalanan Dinas Biasa - Dukungan Supervisi & Monev TP.PKK,Belanja Perjalanan Dinas Dalam Kota - Dukungan Supervisi & Monev TP.PKK,0.9625129653505438,mirip,0.996413342366397,0,0,0
+2351,3001,0.8006228768803607,Belanja Perjalanan Dinas Biasa UPTD PSP WILAYAH II KABANJAHE,Belanja Perjalanan Dinas Biasa UPTD PSP WIL II KABANJAHE,0.8803737261282163,mirip,0.6189212328767123,0,0,0
+2370,2371,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.6712594211552111,0,0,0
+2370,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.656838998231245,0,0,0
+2371,2922,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas I),1.0,mirip,0.7211569089634962,0,0,1
+2383,2273,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.5773582622375507,0,0,1
+2392,1148,1.0,Belanja Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,1.0,mirip,0.7142857142857143,0,0,0
+2431,1128,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.9571428571428572,0,0,0
+2432,1128,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.8909090909090909,0,0,0
+2454,2455,0.8062048235575648,Belanja Perjalanan Dinas Biasa - TLHP Inspektorat Jenderal Kemendagri,Belanja Perjalanan Dinas Biasa - TLHP Inspektorat Jenderal Kemendagri dan Kementerian/Lembaga Lainnya,0.883722894134539,mirip,0.6642191977077364,0,0,0
+2464,1128,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.9907045009784736,0,0,0
+2467,2468,0.9433142310994572,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9659885386596744,mirip,0.8283261802575107,0,0,0
+2467,2264,0.9433142310994572,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9659885386596744,mirip,0.5763636363636364,0,0,1
+2467,2972,0.9433142310994572,Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon III/ Golongan IV -  Sumatera Utara,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9659885386596744,mirip,0.849302682412253,0,0,1
+2469,2972,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.6807956818368633,0,0,0
+2469,84,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.7,0,0,0
+2469,2468,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.6363636363636364,0,0,1
+2469,2264,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.8,0,0,0
+2508,2580,1.0,Perjalanan Dinas dalam daerah,Perjalanan Dinas Dalam Daerah,1.0,mirip,0.66875,0,0,0
+2508,2581,1.0,Perjalanan Dinas dalam daerah,Perjalanan Dinas Dalam Daerah,1.0,mirip,0.542314335060449,0,0,0
+2533,2580,1.0,Perjalanan Dinas Dalam Daerah,Perjalanan Dinas Dalam Daerah,1.0,mirip,0.52625,0,0,0
+2559,2577,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.7674418604651163,0,0,0
+2559,2620,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.9224806201550387,0,0,0
+2559,2675,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.9224806201550387,0,0,0
+2559,2619,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8488372093023255,0,0,0
+2576,2577,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.6105919003115264,0,0,0
+2576,2620,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8701973001038421,0,0,0
+2576,2675,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8701973001038421,0,0,0
+2576,2619,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.7468847352024922,0,0,0
+2577,2620,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.6666666666666666,0,0,0
+2577,2675,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.6666666666666666,0,0,0
+2580,2609,1.0,Perjalanan Dinas Dalam Daerah,PERJALANAN DINAS DALAM DAERAH,1.0,mirip,0.59375,0,0,0
+2601,2577,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.5454545454545454,0,0,0
+2601,2620,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8484848484848485,0,0,0
+2601,2675,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8484848484848485,0,0,0
+2601,2619,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.7045454545454546,0,0,0
+2602,2577,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.5714285714285714,0,0,0
+2602,2620,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8571428571428571,0,0,0
+2602,2675,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.8571428571428571,0,0,0
+2602,2619,1.0,Belanja PerjalananDinas Biasa,Belanja PerjalananDinas Biasa,1.0,mirip,0.7214285714285714,0,0,0
+2612,2625,1.0,Biaya Perjalanan Dinas Biasa,Biaya Perjalanan Dinas Biasa,1.0,mirip,0.7,0,0,0
+2624,2639,0.979302333907351,Biaya Perjalanan Dinas Biasa,Biaya Perjalanan Dinas,0.9875814003444106,mirip,0.7231345947875759,0,0,0
+2625,2639,0.979302333907351,Biaya Perjalanan Dinas Biasa,Biaya Perjalanan Dinas,0.9875814003444106,mirip,0.8449,0,0,0
+2646,2580,1.0,Perjalanan dinas Dalam Daerah,Perjalanan Dinas Dalam Daerah,1.0,mirip,0.75,0,0,0
+2646,2581,1.0,Perjalanan dinas Dalam Daerah,Perjalanan Dinas Dalam Daerah,1.0,mirip,0.6545768566493955,0,0,0
+2651,2652,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.5384615384615384,0,0,0
+2653,2652,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.6666666666666666,0,0,0
+2663,2652,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.9482758620689655,0,0,0
+2663,2651,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.8879310344827587,0,0,0
+2670,2555,1.0,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,Belanja Perjalanan Dinas Paket Meeting Dalam Kota,1.0,mirip,0.7009009009009008,0,0,0
+2673,2564,0.982352569386782,Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,0.989411541632069,mirip,0.8362869198312236,0,0,0
+2673,2552,0.982352569386782,Perjalanan Dinas Dalam Kota,Belanja Perjalanan Dinas Dalam Kota,0.989411541632069,mirip,0.6948453608247422,0,0,0
+2678,2679,1.0,Perjalanan Dinas Luar Daerah,Perjalanan dinas luar daerah,1.0,mirip,0.693956776338433,0,0,0
+2678,2579,0.989164709942398,Perjalanan Dinas Luar Daerah,BELANJA PERJALANAN DINAS LUAR DAERAH,0.9934988259654388,mirip,0.74,0,0,0
+2678,2698,0.989164709942398,Perjalanan Dinas Luar Daerah,Belanja Perjalanan Dinas Luar Daerah,0.9934988259654388,mirip,0.5185185185185185,0,0,0
+2717,2770,0.929089292488262,Perjalanan Dinas (Pemeliharaan rutin Jalan)) UPTD Jalan dan Jembatan Wilayah II,Perjalanan Dinas Pemeliharaan Rutin Jalan UPTD Jalan dan Jembatan Wilayah III,0.9574535754929572,mirip,0.9094607159460716,0,0,1
+2728,2895,1.0,Belanja Perjalanan Dinas Paket Meeting dalam Kota -BINKON,Belanja Perjalanan Dinas Paket Meeting dalam Kota -BINKON,1.0,mirip,0.8571428571428571,0,0,0
+2729,2836,1.0,Belanja Perjalanan Dinas Biasa -BINKON,Belanja Perjalanan Dinas Biasa -BINKON,1.0,mirip,0.6553724567008575,0,0,0
+2729,2785,1.0,Belanja Perjalanan Dinas Biasa -BINKON,Belanja Perjalanan Dinas Biasa -BINKON,1.0,mirip,0.835003824014813,0,0,0
+2741,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.6666666666666666,0,0,0
+2741,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8333333333333334,0,0,0
+2741,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.7560975609756098,0,0,0
+2742,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.5294117647058824,0,0,0
+2742,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.7647058823529411,0,0,0
+2742,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8272357723577236,0,0,0
+2743,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.6774193548387096,0,0,0
+2743,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8739837398373984,0,0,0
+2744,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.959349593495935,0,0,0
+2745,2741,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.75,0,0,0
+2745,2743,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.5161290322580645,0,0,0
+2745,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9390243902439024,0,0,0
+2746,2783,0.915242825810238,Bid Yankes-Subkeg Jamkes-Belanja Perjalanan Dinas Biasa,Bid Yankes-Subkeg Jamkes-Belanja Perjalanan Dinas Dalam Kota,0.9491456954861428,mirip,0.9889543446244478,0,0,0
+2761,2829,0.9106186528355188,Belanja Perjalanan Dinas Luar Daerah Kegiatan Pembangunan RS Mata,Belanja Perjalanan Dinas Dalam Daerah Kegiatan Pembangunan RS Mata,0.9463711917013112,mirip,0.8578908002991773,0,0,0
+2763,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9904438816952554,0,0,0
+2763,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9952219408476277,0,0,0
+2763,2741,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9713316450857662,0,0,0
+2763,2743,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9851880166276459,0,0,0
+2763,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8824597448516412,0,0,0
+2767,2879,0.8994943911826293,Belanja Perjalanan Dinas (Sekretariat DPTPH),Belanja Perjalanan Dinas Dalam Kota (Sekretariat DPTPH),0.9396966347095774,mirip,0.9980808536363026,0,0,0
+2774,2800,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.6547857550864998,0,0,0
+2775,2800,1.0,Belanja Perjalanan Dinas,Belanja Perjalanan Dinas,1.0,mirip,0.9318159243930628,0,0,0
+2785,2836,1.0,Belanja Perjalanan Dinas Biasa -BINKON,Belanja Perjalanan Dinas Biasa -BINKON,1.0,mirip,0.5212333454091695,0,0,0
+2785,2860,1.0,Belanja Perjalanan Dinas Biasa -BINKON,Belanja Perjalanan Dinas Biasa -BINKON,1.0,mirip,0.8944169383729823,0,0,0
+2792,2877,0.8189470291097226,Belanja Perjalanan Dinas Dalam Daerah (UPTD BPSB),Perjalanan Dinas Luar Daerah Dalam Negeri (UPTD BPSB),0.8913682174658335,mirip,0.9538052004078751,0,0,0
+2798,2887,1.0,Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD Belanja Perjalanan dinas dalam dan luar daerah,Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD Belanja Perjalanan dinas dalam dan luar daerah,1.0,mirip,0.5161868975349088,0,0,1
+2804,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9186991869918699,0,0,0
+2832,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8214285714285714,0,0,0
+2832,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9107142857142857,0,0,0
+2832,2743,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.7232142857142857,0,0,0
+2832,2852,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.5447154471544715,0,0,0
+2833,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9185966054784485,0,0,0
+2833,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9592983027392242,0,0,0
+2833,2741,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.7557898164353454,0,0,0
+2833,2743,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8738247384915951,0,0,0
+2836,2860,1.0,Belanja Perjalanan Dinas Biasa -BINKON,Belanja Perjalanan Dinas Biasa -BINKON,1.0,mirip,0.7794686396502438,0,0,0
+2856,2857,0.915242825810238,Bid Yankes-Subkeg Kestrad-Belanja Perjalanan Dinas Biasa,Bid Yankes-Subkeg Kestrad-Belanja Perjalanan Dinas Dalam Kota,0.9491456954861428,mirip,0.9912340849943119,0,0,0
+2865,2883,0.9226931535708603,Belanja Perjalanan Dinas Biasa (Registrasi Lahan Hortikultura),Belanja Perjalanan Dinas Dalam Kota (Registrasi Lahan Hortikultura),0.9536158921425162,mirip,0.9104076452142751,0,0,0
+2894,2804,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9418325650384632,0,0,0
+2894,2744,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.9709162825192316,0,0,0
+2894,2741,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.8254976951153896,0,0,0
+2894,2743,1.0,"Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)","Kegiatan Penunjang (Perencanaan, Pengawasan, Perjalanan Dinas dalam rangka Pengendalian Kegiatan)",1.0,mirip,0.909840475809618,0,0,0
+2911,2972,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.7286763295613338,0,0,1
+2911,84,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.6470588235294118,0,0,1
+2911,2468,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.6909090909090909,0,0,0
+2911,2321,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.575,0,0,0
+2911,2264,1.0,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",1.0,mirip,0.7647058823529411,0,0,1
+2912,2321,0.8508762163237518,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Gorontalo","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9105257297942512,mirip,0.7072251308900523,0,0,1
+2912,84,0.8508762163237518,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Gorontalo","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9105257297942512,mirip,0.9560837696335078,0,0,1
+2912,2264,0.8508762163237518,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Gorontalo","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9105257297942512,mirip,0.9707225130890053,0,0,1
+2912,2911,0.8508762163237518,"Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Gorontalo","Biaya Penginapan Perjalanan Dinas Dalam Negeri - Pejabat Eselon IV/ Golongan III, II Dan I -  Sumatera Utara",0.9105257297942512,mirip,0.8755706806282723,0,0,1
+2913,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.7397194517040909,0,0,0
+2915,2470,1.0,Perjalanan Dinas Biasa,Perjalanan Dinas Biasa,1.0,mirip,0.8278688524590164,0,0,0
+2920,2371,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.5339030428879482,0,0,1
+2920,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.513457391582142,0,0,1
+2922,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas I),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.7089252723450341,0,0,1
+2941,2987,0.9651279695253676,"Belanja Perjalanan Dinas Biasa - Event, Expo dan Pameran Produk Unggulan KUMKM Sumatera Utara","Belanja Perjalanan Dinas Dalam Kota - Event, Expo dan Pameran Produk Unggulan KUMKM Sumatera Utara",0.9790767817152206,mirip,0.7695604750126742,0,0,0
+2948,2989,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.5210111621799081,0,0,0
+2948,2370,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas V),1.0,mirip,0.8356297105776055,0,0,0
+2948,2210,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas I),1.0,mirip,0.7903233532934132,0,0,1
+2948,2922,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas V),Belanja Perjalanan Dinas Biasa (Cabang Dinas I),1.0,mirip,0.8605784544817481,0,0,1
+2995,67,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.6582671300893744,0,0,0
+2995,2474,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.7600452744765138,0,0,0
+2995,99,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.6889695378556813,0,0,0
+2995,2213,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.5926581382413915,0,0,0
+2995,2214,1.0,Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),Belanja Perjalanan Dinas Biasa (Cabang Dinas IV),1.0,mirip,0.6582671300893744,0,0,0
